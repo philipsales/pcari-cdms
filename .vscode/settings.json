@@ -1,0 +1,21 @@
+{
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    },
+    "eslint.autoFixOnSave": true,
+    "eslint.validate": [
+      {
+          "language": "html",
+          "autoFix": true
+      },
+      {
+          "language": "vue",
+          "autoFix": true
+      },
+      {
+          "language": "javascript",
+          "autoFix": true
+      },
+    ],
+    "editor.tabSize": 2,
+  }
